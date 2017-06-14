@@ -1,6 +1,6 @@
 # OmnifocusScripts
 These are scripts I've written to automate Omnifocus and customize it to my needs.
-<img width="334" alt="untitled" src="https://user-images.githubusercontent.com/3252725/27065679-60b43bc6-4fc4-11e7-9aea-28176598d63c.png">
+![Screenshot](https://user-images.githubusercontent.com/3252725/27114790-b6f756fe-508b-11e7-85d4-b0bdf38c61b7.png)
 
 ## Toggl Integrations
 The **Start Toggl Task** and **Complete Toggl Task** integrations are a pair of scripts that can be run from within Omnifocus to start and stop Toggl time entries connected with the Omnifocus task selected. Both scripts require you to enter your Toggl API (found within your account preferences) on the first run. **Complete Toggl Task** also requires [jq](https://stedolan.github.io/jq/) to be installed on your system. This can be easily installed with `brew install jq`. 
