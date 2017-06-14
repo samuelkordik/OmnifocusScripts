@@ -9,6 +9,9 @@ The **Start Toggl Task** and **Complete Toggl Task** integrations are a pair of 
 
 **Complete Toggl Task** looks for the active Toggl time entry, and if it has an "of_" tag, then it finds that OmniFocus task and marks it complete. It also updates the estimated minutes in Omnifocus with the duration from Toggl. Finally, it removes the "of_" tag from the time entry.
 
+## Other Omnifocus Scripts
+The **Revise Time** script sets the estimated minutes field of the selected item(s) to the sum of estimated minutes for the tasks it contains.
+
 ## To-dos:
 - Confirm that Toggl tags are getting removed correctly.
 - [Workflow to adapt](https://www.macstories.net/ios/workflow-update-brings-ability-to-interact-with-any-web-api/)
