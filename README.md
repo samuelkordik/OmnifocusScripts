@@ -14,6 +14,7 @@ The **Start Toggl Task** and **Complete Toggl Task** integrations are a pair of 
 ## Other Omnifocus Scripts
 The **Revise Time** script sets the estimated minutes field of the selected item(s) to the sum of estimated minutes for the tasks it contains.
 
+The **Support Plus** script extends the [Support](https://github.com/lemonmade/support) script originally developed by Chris Sauve of [pxldot](http://pxldot.com) to include Evernote reference information. It functions by storing a path to reference material in the finder and an Evernote tag name in the project note. Once set, access this information from anywhere in the project by running the script. It will open up a finder window for the project support material, and a new search window in Evernote searching by the tag name.
 
 ## To-dos:
 - [Workflow to adapt](https://www.macstories.net/ios/workflow-update-brings-ability-to-interact-with-any-web-api/)
